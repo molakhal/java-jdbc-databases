@@ -52,7 +52,7 @@ public class UpdateOrderDao
    /**
     * Creates a PreparedStatement object to update the order
     * 
-    * @param con Connnection object
+    * @param con Connection object
     * @param paramsDto Object with the parameters to set on the
     *           PreparedStatement
     * @return A PreparedStatement object
