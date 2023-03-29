@@ -62,7 +62,7 @@ public class GetOrderDao
    /**
     * Creates a PreparedStatement object to get an order
     * 
-    * @param con Connnection object
+    * @param con Connection object
     * @param orderId Order ID to set on the PreparedStatement
     * @return A PreparedStatement object
     * @throws SQLException In case of an error
